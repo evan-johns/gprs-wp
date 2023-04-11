@@ -20,13 +20,5 @@ To use this re-designed version of the GPRS website, follow these steps:
 
 2. Set up a local development environment using LocalWP or any other suitable tool.
 
-3. Import the content from the original GPRS website into your local development environment.
 
-4. Activate the custom WordPress theme provided in this repository.
-
-5. Customize the website further as needed to match your requirements.
-
-6. Test the website in the local development environment to ensure proper functionality.
-
-7. Deploy the website to a live server or host it locally as desired.
 
